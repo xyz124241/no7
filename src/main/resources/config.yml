@@ -1,0 +1,11 @@
+villager:
+  unlimited-trades: true      # Trades sperren sich nie, kein Preisanstieg
+  freeze-while-trading: true  # Villager bewegt sich nicht weg, solange du handelst
+
+xp:
+  merge: true                 # XP-Orbs zu grossen Klumpen (false = aus)
+  radius: 6.0
+
+brewing:
+  instant: true               # Traenke sind sofort fertig
+  free-fuel: true             # Braustaender braucht kein Blaze Powder
